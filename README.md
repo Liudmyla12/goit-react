@@ -1,4 +1,4 @@
-# goit-react-woolf-hw-01-components test
+# goit-react-woolf-hw-01-components 
 # React homework template
 
 Цей проект був створений за допомогою
